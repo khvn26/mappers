@@ -5,3 +5,7 @@
 __pycache__/
 site/
 pip-wheel-metadata/
+
+# Poetry lock file
+# See: https://github.com/dry-python/mappers/pull/29#discussion_r290777578
+poetry.lock
